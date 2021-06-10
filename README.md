@@ -5,7 +5,7 @@ This is an assignment from our bootcamp at KodeGo </br></br>
 formula</br>
 bmi = weight / height2</br>
     = convert cm to m,</br>
-    = kg / kg/(m*m);</br>
+    = kg/(m*m);</br>
 
  
 
